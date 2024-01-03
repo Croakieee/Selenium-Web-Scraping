@@ -1,4 +1,4 @@
-# Advanced Selenium Web Scraping Example
+# Advanced Selenium Web Scraping
 
 This Ruby script demonstrates advanced web scraping using Selenium. It opens the Google homepage, performs a search, captures a screenshot, and retrieves titles of the first few search results.
 
